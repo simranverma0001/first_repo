@@ -1,1 +1,2 @@
-# first_repo
+#first project
+discription of my project
